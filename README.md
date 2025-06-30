@@ -3,5 +3,3 @@
 ## Projetos
 
 - [ContaTerminal](./ContaTerminal)
-- [NovoProjeto](./NovoProjeto)
-- [MaisUmProjeto](./MaisUmProjeto)
